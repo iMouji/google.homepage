@@ -8,3 +8,9 @@ The next assignment of this curriculum is this HTML and CSS project. I will be d
 
 
 First step is, which is optional, is to set up a repository for my project on Github.  
+
+.....
+
+
+
+I forgot to update this as I proceeded with my project. Anyways, the final piece is ready for display. Great experience. 
